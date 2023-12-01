@@ -1,0 +1,2 @@
+# hamdi
+junior software developer
